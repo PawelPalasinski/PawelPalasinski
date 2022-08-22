@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
