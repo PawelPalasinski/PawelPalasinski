@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&count_private=true&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+---
+[![](https://visitcount.itsvg.in/api?id=PawelPalasinski&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pawełpałasiński/) 
