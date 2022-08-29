@@ -21,13 +21,8 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 
+  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100"/>
 
-
-![](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,4 +35,13 @@ Here are some ideas to get you started:
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawełpałasiński/) 
+
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 </div>
