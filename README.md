@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 </div>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawełpałasiński/) 
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg?logo=linkedin&width=40)](https://www.linkedin.com/in/pawełpałasiński/) 
 
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false)<br/>
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/pawełpałasiński/) 
 
 
 </div>
