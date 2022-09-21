@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Pawe%C5%82!)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawełpałasiński/) 
 
-
+<!--
+ <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100"/>
+-->
 </div>
