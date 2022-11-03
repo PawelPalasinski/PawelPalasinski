@@ -1,24 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**PawelPalasinski/PawelPalasinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-# 📊 GitHub Stats:
--->
-
 <div id="header" align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Pawe%C5%82!)](https://git.io/typing-svg)
@@ -38,24 +17,19 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
   
-  
 </div>
 
 ### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawełpałasiński/) 
 
-<!--
- <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100"/>
--->
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawelPalasinski&theme=dark&hide_border=false&fire=DD2727)
+  
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPalasinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 </div>
