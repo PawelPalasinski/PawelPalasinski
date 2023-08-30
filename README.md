@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Pawe%C5%82!)](https://git.io/typing-svg)
 
-  #### ⭐Check out what I'm currently working on: https://github.com/PawelPalasinski/SWDDB
+  #### ⭐Check out my portfolio page: https://pawelpalasinski-portfolio.netlify.app
   
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
